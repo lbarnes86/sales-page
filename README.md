@@ -4,7 +4,7 @@
 
 </div>
 
-- Live Demo: [Live Demo]()
+- Live Demo: [Live Demo](https://lbarnes86.github.io/sales-page/)
 
 - Repository: [Repository](https://github.com/lbarnes86/sales-page)
 
