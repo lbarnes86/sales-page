@@ -6,7 +6,7 @@
 
 - Live Demo: [Live Demo]()
 
-- Repository: [Repository]()
+- Repository: [Repository](https://github.com/lbarnes86/sales-page)
 
 ## Table of Contents
 
